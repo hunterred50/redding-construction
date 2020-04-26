@@ -13,7 +13,7 @@ import Commercial from './pages/Commercial';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App" style={{ overflow: "hidden" }}>
       <Navbar/>
 
       <Switch>

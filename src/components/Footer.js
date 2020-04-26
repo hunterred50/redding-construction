@@ -3,7 +3,7 @@ import './components.css';
 
 const Footer = () => {
   return (
-    <div style={{marginTop: 1000, backgroundColor: "rgb(117, 94, 73)"}}>
+    <div style={{marginTop: 1000, backgroundColor: "rgb(117, 94, 73)", position: "relative", width: "100%"}}>
       <div className="footer">
         <div className="item1">
           <h3 style={{paddingBottom: 20}}>Redding Construction & Landscaping LLC</h3>

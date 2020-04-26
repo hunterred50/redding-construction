@@ -1,3 +1,23 @@
 .bttn:hover {
   filter: brightness(110%);
 }
+
+.divOnImage {
+  position: absolute;
+  font-size: 18px;
+  color: white;
+}
+
+.outerDivOnImageMobile {
+  width: "400px"; height: "200px";
+  position: "absolute";
+  margin-left: 5em;
+  margin-top: 16em;
+}
+
+.outerDivOnImage {
+  width: "200px"; height: "200px";
+  position: "absolute";
+  margin-left: 10em;
+  margin-top: 20em;
+}
